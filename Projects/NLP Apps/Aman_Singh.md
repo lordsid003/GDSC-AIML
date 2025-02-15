@@ -17,7 +17,7 @@ A Finance Manager Bot built using LangChain and an LLM model to help manage your
 Welcome to the Finance Manager Bot! This bot is designed to assist users in managing their finances by leveraging the power of LangChain and a Large Language Model (LLM). It can track expenses, generate financial reports, provide budget recommendations, and much more.
 ---
 Deployment Link: https://finance-manager-using-llm.streamlit.app/
-
+Repo Link: https://github.com/thxaman/Finance-Manager-Using-LLM
 ---
 
 ## ✨ Features
